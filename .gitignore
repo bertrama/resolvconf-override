@@ -18,3 +18,4 @@ libresolvconf_override_la-resolvconf-override.lo
 libtool
 ltmain.sh
 missing
+*.so
